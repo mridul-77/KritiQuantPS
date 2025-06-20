@@ -42,8 +42,9 @@ Performance Metrics
 • Sharpe Ratio (Annualized): 9.24  
 • Maximum Drawdown: -7.25%  
 • Annualized Volatility: 54.02%  
-• Sortino Ratio: 5.26  
 • 3-Month Returns: 327.42%
+• Sortino Ratio: 5.26  
+
 
 Statistical Validation
 ----------------------
