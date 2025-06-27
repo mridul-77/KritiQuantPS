@@ -26,7 +26,7 @@ The trading system consists of three main components:
 2. Trend Identification
    • Employs Bollinger Bands to identify overbought/oversold conditions and dynamic support/resistance levels.  
    • Utilizes the Zig-Zag indicator to filter out minor price movements and highlight significant trend changes.
-
+ 
 3. Trading Strategy
    • Trades are executed only when both regime and trend indicators align.  
    • Capital allocation is dynamic:  
